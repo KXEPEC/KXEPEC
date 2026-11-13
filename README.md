@@ -1,6 +1,7 @@
 <div align=center> 
  
-<img width="2048" height="926" alt="Untitled121_20261114004621" src="https://github.com/user-attachments/assets/1577d28e-283d-4f28-8739-b34f52373d7e" />
+<img width="2048" height="926" alt="image" src="https://github.com/user-attachments/assets/480d4eb4-8d2f-4d08-97d0-ca1cd046b984" />
+
 
 <p align="center">
 $\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
