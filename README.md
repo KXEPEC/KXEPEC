@@ -3,7 +3,7 @@
 <img width="2048" height="926" alt="Untitled121_20261114004621" src="https://github.com/user-attachments/assets/1577d28e-283d-4f28-8739-b34f52373d7e" />
 
 <p align="center">
-$\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜 . 𝙺𝚎𝚛𝚎𝚜}$
+$\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
 
 
  <p align="center">
