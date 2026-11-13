@@ -7,4 +7,4 @@ $\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜 . 𝙺𝚎𝚛𝚎𝚜}$
 </p>
 
  <p align="center">
- <img width="190" height="100" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/64d0691f-7408-46d4-b2ac-a926be808f42" />
+ <img width="256" height="256" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/caf90b63-b9f6-495c-a513-3bb90b772ea1" />
