@@ -16,14 +16,13 @@ $\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
  <p align="left">
  <img width="300" height="300" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/caf90b63-b9f6-495c-a513-3bb90b772ea1" />
   
+  [ATA](https://deathfollowsby.atabook.org)        [CARDD](https://kepec.carrd.co)           
+</div>
+  
 <p align="right">
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/afebeb6c-f37a-4d6c-be22-3e957e64602c" />
 
-  
- [ATA](https://deathfollowsby.atabook.org)        [CARDD](https://kepec.carrd.co)           
-</div>
-
-<div align=center> 
+  <div align=center> 
  
 <a href="https://github.com/creepy-town-hall" target="_blank">Creepy-town-hall</a> 's Ticci Toby
 
