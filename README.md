@@ -23,4 +23,5 @@ $\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
  
 <a href="https://github.com/creepy-town-hall" target="_blank">Creepy-town-hall</a> 's Ticci Toby
 
-<img width="2048" height="163" alt="image" src="https://github.com/user-attachments/assets/565cd5df-addd-48b6-bc2b-60504bfafdcf" />
+<img width="2048" height="163" alt="image" src="https://github.com/user-attachments/assets/98ec99b0-f043-44a9-8de8-653ddf6e241c" />
+
