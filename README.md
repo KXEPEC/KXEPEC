@@ -1,5 +1,7 @@
 <div align=center> 
- 
+
+ <img width="2048" height="163" alt="image" src="https://github.com/user-attachments/assets/76d0703c-9d77-4fef-819a-9bf673ef5881" />
+
 <img width="2048" height="926" alt="image" src="https://github.com/user-attachments/assets/480d4eb4-8d2f-4d08-97d0-ca1cd046b984" />
 
 
@@ -20,3 +22,5 @@ $\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
 <div align=center> 
  
 <a href="https://github.com/creepy-town-hall" target="_blank">Creepy-town-hall</a> 's Ticci Toby
+
+<img width="2048" height="163" alt="image" src="https://github.com/user-attachments/assets/565cd5df-addd-48b6-bc2b-60504bfafdcf" />
