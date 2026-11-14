@@ -6,7 +6,7 @@
 
 
 <p align="center">
-$\texttt{\color{#FF8C00}{width-100}𝚃𝚘𝚋𝚒𝚊𝚜}$
+$\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
 
 
  <p align="center">
