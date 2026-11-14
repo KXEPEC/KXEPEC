@@ -18,6 +18,10 @@ $\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
   
   [ATA](https://deathfollowsby.atabook.org)        [CARDD](https://kepec.carrd.co)           
 </div>
+
+</sub></sup>
+    <p align="center">
+   ![Github Views](https://views.igorkowalczyk.dev/api/badge/KXEPEC?label=Ｌｅａｖｅｓ&labelColor=8B4000&color=A0522D)
   
 <p align="right">
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/afebeb6c-f37a-4d6c-be22-3e957e64602c" />
