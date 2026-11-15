@@ -16,7 +16,7 @@ $\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
  <p align="left">
  <img width="300" height="300" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/caf90b63-b9f6-495c-a513-3bb90b772ea1" />
   
-  [ATA](https://deathfollowsby.atabook.org)        [CARDD](https://kepec.carrd.co)           
+
 </div>
 
 </sub></sup>
@@ -33,6 +33,9 @@ $\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
 
 <details><summary>$\color{#C04000}{\textsf{Ｍｙ ｗｏｏｄｓ.}}$</summary>
 <a href="https://github.com/ChimoryX" target="_blank">ChimoryX<a/> </details>
+
+[<img width="260" height="260" alt="image" src="https://github.com/user-attachments/assets/0c160ef4-eecd-44a9-8dc0-0d0c3b2b0f1f" />](https://deathfollowsby.atabook.org) [<img width="260" height="260" alt="image" src="https://github.com/user-attachments/assets/382392ed-8e06-45d4-b1a2-fd8fc663bba9" />](https://kepec.carrd.co)
+
 
 <img width="2048" height="163" alt="image" src="https://github.com/user-attachments/assets/98ec99b0-f043-44a9-8de8-653ddf6e241c" />
  
