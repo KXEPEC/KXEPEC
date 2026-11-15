@@ -32,7 +32,7 @@ $\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
 
 
 <details><summary>$\color{#C04000}{\textsf{𝙼𝚢 𝚠𝚘𝚘𝚍 𝚜𝚌𝚞𝚕𝚙𝚝𝚞𝚛𝚎 . }}$</summary>
-<a href="https://github.com/ChimoryX" target="_blank">ChimoryX<a/> </details>
+<a href="https://github.com/ChimoryX" target="_blank">Jeff.<a/> </details>
 
 
 [<img width="260" height="260" alt="image" src="https://github.com/user-attachments/assets/0c160ef4-eecd-44a9-8dc0-0d0c3b2b0f1f" />](https://deathfollowsby.atabook.org) [<img width="260" height="260" alt="image" src="https://github.com/user-attachments/assets/382392ed-8e06-45d4-b1a2-fd8fc663bba9" />](https://kepec.carrd.co) [<img width="260" height="260" alt="image" src="https://github.com/user-attachments/assets/92059ce2-43f4-4ead-ba2d-eb1f1801ac87" />](https://vlry.straw.page)
