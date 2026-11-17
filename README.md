@@ -8,9 +8,7 @@
 <p align="center">
 $\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
 
-&nbsp;<div align="center">
-  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
-</div>
+
 
 
  <p align="center">
