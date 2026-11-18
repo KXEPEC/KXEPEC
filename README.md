@@ -8,7 +8,11 @@
 <p align="center">
 $\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=155c5zu7o4nk3yhz3bwr7dmj5&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=da5100&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=155c5zu7o4nk3yhz3bwr7dmj5&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=da5100&bar_color_cover=false">
+  </a>
+</p>
 
  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Serif&duration=9000&pause=900&color=8B4000&center=true&width=1000&lines=Who+needs+a+social+life+when+you+have+the+voices+in+your+head+to+keep+you+company?;I'll+catch+you+soon.;+Why+are+you+running+my+deer?+Hm..?"" " />
