@@ -8,7 +8,11 @@
 <p align="center">
 $\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
 
-
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=155c5zu7o4nk3yhz3bwr7dmj5&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=155c5zu7o4nk3yhz3bwr7dmj5&cover_image=true&theme=default&show_offline=true&background_color=7b2900&interchange=true&profanity=false&hide_remaster=false&bar_color=da5100">
+  </a>
+</p>
 
 
  <p align="center">
