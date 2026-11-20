@@ -50,6 +50,8 @@ $\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
  
 <p align="center">
  $\texttt{\color{#FFAC1C}The Creepypasta Revolution of ‘26}$
+ 
  $\texttt{\color{#FFAC1C}we are.. creepyasta}$
+ 
 $\texttt{\color{#FFAC1C}Maybe this ain't bad right fellas? <3}$
 
