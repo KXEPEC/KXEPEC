@@ -45,4 +45,11 @@ $\texttt{\color{#FF8C00}𝚃𝚘𝚋𝚒𝚊𝚜}$
 
 
 <img width="2048" height="163" alt="image" src="https://github.com/user-attachments/assets/98ec99b0-f043-44a9-8de8-653ddf6e241c" />
+
+ <img width="958" height="601" alt="image" src="https://github.com/user-attachments/assets/d5b3c5cd-58bf-421f-985b-5224be49dfab" />
  
+<p align="center">
+ $\texttt{\color{#FFAC1C}The Creepypasta Revolution of ‘26}$
+ $\texttt{\color{#FFAC1C}we are.. creepyasta}$
+$\texttt{\color{#FFAC1C}Maybe this ain't bad right fellas? <3}$
+
